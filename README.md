@@ -1,6 +1,6 @@
 # aws-v1
 
-## Springboot 2.6.3, JDK 11
+## Springboot 2.7.3, JDK 11
 - devtools
 - springweb
 - lombok
